@@ -1,4 +1,4 @@
-# de.rsev.utilities
+# Java-Utilities
 
 A dependency-free, modular utility framework designed for
 cross-platform and cross-language system-level development.
